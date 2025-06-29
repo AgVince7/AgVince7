@@ -1,7 +1,6 @@
 # 👋 Hola, me llamo Agustín!
 
-🎓 Estudiante de programación en la Universidad Tecnológica Nacional (UTN).
-
+🎓 Estudiante de programación en la Universidad Tecnológica Nacional (UTN).  
 💻 Apasionado por el desarrollo de software y los videojuegos.
 
 ## 🧠 Tecnologías que utilizo
@@ -13,6 +12,13 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+## 📊 Estadísticas de GitHub
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AgVince7&layout=compact&langs_count=8&theme=tokyonight)
 
 ---
 
